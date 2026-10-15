@@ -1,11 +1,11 @@
 ### Hi, I'm Yi Yu 👋
 
 NYU Stern, B.S. Business and Political Economy (class of 2029).
-I build **AI products, agents and LLM evaluations**. I come up with the ideas, own the product direction and take them
-to market; I set the design and the bar for evidence, and coding agents (Claude Code, Codex, Kimi) write most of the code.
-Every number below is measured and can be checked in the linked repository or demo.
+**I turn business ideas into working AI products.** I own the idea, the product and pricing decisions and the go-to-market;
+AI coding tools (Claude Code, Codex, Kimi) do the engineering. Every number below is measured and can be checked in the
+linked repository or demo.
 
-我负责想法、产品方向和商业化落地，用编程 Agent 完成开发；下面的数字都是实测。
+商科背景，负责想法、产品、定价与商业化落地；工程实现交给 AI 编程工具。下面的数字都是实测。
 
 #### Products
 
