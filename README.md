@@ -7,12 +7,14 @@ linked repository or demo.
 
 商科背景，负责想法、产品、定价与商业化落地；工程实现交给 AI 编程工具。下面的数字都是实测。
 
+**试用 · Try them:** 映知录 <https://yingzhilu.cn> · Pramana <https://pramana.yingzhilu.cn>（注册邀请码 invite code: `yiyu-kimi-1024`）
+
 #### Products
 
 | Project | What it does | Evidence |
 |---|---|---|
-| [**映知录 Yingzhilu**](https://github.com/yy5652-hash/yingzhilu) | One link in, one video understood: chapters, a timestamped summary and questions answered from the video itself, for viewers in mainland China. | Routes between Zhipu GLM and Kimi; per-month cost and usage caps; web app plus WeChat mini-program, iOS and Android clients |
-| [**Pramana**](https://github.com/yy5652-hash/pramana) · [film](https://youtu.be/63be_42pV3k) | A study companion that answers only from your course (textbook, slides, lecture videos) and cites the page, the slide or the second it came from. | RAGAS faithfulness 0.96, context recall 1.00; 14 of 14 off-course questions declined |
+| [**映知录 Yingzhilu**](https://github.com/yy5652-hash/yingzhilu) · [**try it**](https://yingzhilu.cn) | One link in, one video understood: chapters, a timestamped summary and questions answered from the video itself, for viewers in mainland China. | Routes between Zhipu GLM and Kimi; per-month cost and usage caps; web app plus WeChat mini-program, iOS and Android clients |
+| [**Pramana**](https://github.com/yy5652-hash/pramana) · [**try it**](https://pramana.yingzhilu.cn) · [film](https://youtu.be/63be_42pV3k) | A study companion that answers only from your course (textbook, slides, lecture videos) and cites the page, the slide or the second it came from. The new version runs in Chinese and English on Kimi, with practice, mock exams and a knowledge map. | RAGAS faithfulness 0.96, context recall 1.00; 14 of 14 off-course questions declined |
 
 #### Agents
 
